@@ -5,14 +5,14 @@
         "guid": "sampleF9FFCF5C87D8476AB541CC7FF842AB0F",
         "visualClassName": "Visual",
         "version": "1.0.0",
-        "description": "",
-        "supportUrl": "",
+        "description": "table",
+        "supportUrl": "null",
         "gitHubUrl": ""
     },
     "apiVersion": "5.1.0",
     "author": {
-        "name": "",
-        "email": ""
+        "name": "Chris",
+        "email": "Chris@chris.com"
     },
     "assets": {
         "icon": "assets/icon.png"

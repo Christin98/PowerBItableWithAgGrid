@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0",
+		"author": {"name":"Chris","email":"Chris@chris.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/sampleF9FFCF5C87D8476AB541CC7FF842AB0F.pbiviz.json"
+			}
+		],
+		"visual": {"name":"sample","displayName":"sample","guid":"sampleF9FFCF5C87D8476AB541CC7FF842AB0F","visualClassName":"Visual","version":"1.0.0","description":"table","supportUrl":"null","gitHubUrl":""},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
